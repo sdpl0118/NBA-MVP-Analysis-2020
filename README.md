@@ -1,12 +1,12 @@
 # NBA-MVP-Analysis-2020
 Using Machine Learning to Predict the NBA MVP in 2020
 
-# Work Cited
-Web Scraping Code and Topic Inspiration
+## Work Cited
+**Web Scraping Code and Topic Inspiration**
 
 https://github.com/CaioBrighenti/nba-models
 
-Topic Inspiration
+**Topic Inspiration**
 
 http://harvardsportsanalysis.org/2018/06/nba-mvp-predictions/
 
@@ -20,13 +20,13 @@ https://dribbleanalytics.blog/2020/01/2020-mvp-mid-season/
 
 https://github.com/vishaalagartha/basketball_reference_scraper
 
-Desktop research regarding NBA AWARDS
+**Desktop research regarding NBA AWARDS**
 
 https://www.quora.com/Which-NBA-players-if-any-won-the-regular-season-MVP-award-but-were-not-selected-for-the-All-Star-game
 
 http://wagesofwins.com/2013/01/03/everything-you-need-to-know-about-the-mvp-award/
 
-Coding Reference
+**Coding Reference**
 
 https://www.w3schools.com/jsref/dom_obj_all.asp
 
